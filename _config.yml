@@ -1,0 +1,11 @@
+Title: Architecture Text Readers Anonymous Phalanstery
+url: http://atrap.org
+description: 'Architecture text reading and thinking group'
+keywords:
+  - Architecture
+  - Reading
+  - Text
+  - Book
+  - Discussion
+pygments: true
+permalink: /:year/:month/:day/:title

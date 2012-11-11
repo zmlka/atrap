@@ -4,7 +4,7 @@ author: Martin Zemlicka
 title: 1.03 - Futurism Constructivism Dada
 ---
 
-![](12.11.11.Constructivism.Futurism.Dada.jpg)
+![](/img/12.11.11.Constructivism.Futurism.Dada.jpg)
 
 This week is a bit of a challenge. For two reasons: The texts involved are from
 rather «radical» groups, and the groups themselves were not manly concerned

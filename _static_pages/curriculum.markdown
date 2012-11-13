@@ -107,6 +107,11 @@ will be changed according to demand.
     * Wright - The Art and Craft of the Machine
 1. Loos:
     * Loos - Ornament and Crime
+1. Futurism Constructivism Dada
+    * The First Working Group of the Constructivists - extracts from pamphlets
+    * Tristan Tzara - Dada Manifesto
+    * Antonio Sant'elia - Futurist Architecture
+
 
 
 

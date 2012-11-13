@@ -27,7 +27,7 @@ able to read due to technical issues.
 
 On a final note, I wrote up some of what I mentioned in the introductory
 session as a mini essay on a separate site: [A brief justification of reading
-(history)](http://zmlka.com/2012/10/20/a-brief-justification-of-reading-history).
+(history)](http://zmlka.com/a_brief_justification_of_reading_history).
 The only other things that were covered was the curriculum and principles,
 which can be found on their respective sections on the main ATRAP site.
 

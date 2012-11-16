@@ -59,8 +59,8 @@ will be changed according to demand.
       we can identify is a question that probably can't be answered, but it can
       be ivnestigated.
 1. Less is more
-    * **Mies van der Rohe**. In keeping with the dictum above, I will mention
-      no more.
+    * **Mies van der Rohe**. In keeping with the dictum above, not more to be
+      said.
 1. We are returning to honesty of thought and feeling
     * A fellow expatriate, **Walter Gropius** is another often blamed and
       frequently misunderstood figure.
@@ -84,19 +84,86 @@ will be changed according to demand.
 ### 2/2
 
 1. "What do you want Brick?"
-1. Team 10
+    * Look on any top 10 architectural personality popularity list, and  **Louis
+      Kahn** is probably somewhere somewhere in there.
+    * As with many of the architects who write, lecture and teach prolifically,
+      he cared deeply about the profession and had his own brand of it.
+      In his case, there are certain words that we will come across that he has
+      managed to appropriate.
+1. The Doorn Manifesto
+    * Not all was well by the time CIAM had it's ninth meeting in
+      Aix-en-Provence, and a few years later at the tenth we get the formal
+      emergence of **Team Ten** (also known as Team X or Team 10).
+    * And so begins the attempted dismantling of CIAM from within.
 1. The walking city
+    * One often hears of the stark difference between architecture school and
+      reality.
+    * Not so for **Archigram**, who unleashed the playfulness of school
+      projects outside of it while employing wit and irony to engage in
+      Critique.
 1. Flood of the Arno River
+    * The very real flooding of the Arno River in 1966 was also a great
+      symbolic act and awakening call for Florentines. The rampant destruction
+      of the heritage of the city was unprecedented.
+    * Two linked groups of architects/designers emerged around this period:
+      **SUPERSTUDIO** and **ARCHIZOOM**. All caps intended.
 1. The spectacle
+    * The society. The previous few weeks have put us in top gear top ready to
+      handle 1968 France.
+    * **The Situationist International**. Propagators of psychogeography,
+      interpretares of space and its opression.
 1. Clusters in the Air
+    * Meanwhile, on the other side of the world, a Japan is a country still
+      recovering from Word War II and looking for a revival.
+    * The **Metabolists** are perhaps he most tightly knit research and
+      intellectual architectural movement of the 20the century. Somwhat
+      mysterious and always exotic.
 1. I am a monument
+    * By this stage, our pace is significantly picking up and we have to pick
+      our subjects carefully. however, there is one thing that can't be missed.
+    * Two texts that heralded forward the aesthetics era of post-modernism by
+      **Robert Venturi** and **Denise Scott Brown**.
 1. Five on Five Architects
+    * Some were not satisfied to have been broken free of the shackles of the
+      internatinal style and modernity in general. Some still do prefer white
+      washed walls.
+    * The debate between the so called **Grays** and **Whites** is an
+      interesting document to look at, because it so symptomatic of the
+      architectural discurse at the time. The names involved are still houshold
+      names (in architectural household) today.
 1. Into the void inside out
+    * Architecture is not an island, and if one needs a perfect example it
+      would be this. The interaciton between **Peter Eisenman** and Jacques
+      Derrida led to a huge shift in the possibility of what architecture could
+      be.
+    * Linguistic analysis leads to deconstruction and critique.
 1. Beyond a certain critical mass, a building becomes a BIG Building
+    * Jumping years ahead again, an architect begins to face broader and
+      broader issues. No longer is one building being considered, but sometimes
+      the fate of an entire continet.
+    * If three is an architect that can write, its **Rem Koolhaas**.
 1. Czech architecture and its austerity
-1. Heidegger
-1. NAT
-
+    * But maybe a country is an island, even if landlocked as is the case of
+      the Czech Republic. How is it that there is such a strong prevalenc of a
+      certain aesthatic within this nation? Are the spirits/ghosts of
+      functionalism really that strong?
+    * In the only non-primary source of the series, we look at a text by
+      **Rostislav Svacha** that might explain the above.
+1. The present, part 1
+    * The current moment is split into two tracks. This session is abut those
+      who fundementally believe the value of things (ie: what is important is
+      the properties of things in themselves)
+    * This is the tendency towards understanding.
+    * **Phenomenology**, **Deconstruction**, **Linguistics**, and almost all
+      other branches of architecture that attempt to understand what it is that
+      they are dealing with.
+1. The present, part 2
+    * The current moment is split into two tracks. This session is abut those
+      who fundementally believe in the value of connections (ie: what is
+      important is the relationships between things).
+    * This is the tendency towards complexity.
+    * **Parametricism**, **Generative Design** and all branches of architecture
+      that admit defeat over the possibility of knowing the world.
 
 ## 2012/13 Specific Curriculum
 
@@ -111,6 +178,8 @@ will be changed according to demand.
     * The First Working Group of the Constructivists - extracts from pamphlets
     * Tristan Tzara - Dada Manifesto
     * Antonio Sant'elia - Futurist Architecture
+1. Corbusier 1
+    * Le Corbusier - Towards an Architecture
 
 
 

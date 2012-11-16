@@ -28,7 +28,7 @@ will be changed according to demand.
       in **Chcaigo**, where, with the «crime» of the World's Fair still in memory
       serving as a reference point of terrible, an architecure scene emerges.
     * It's quite a nice starting place for looking at 20th century
-      architecture, since the themes that were disucssed never left us.
+      architecture, since the themes that were discussed never left us.
 1. Gesamtkunstwerk
     * Half way across the globe, **Adolf Loos** reacts to a different
       exhibition, the Jubilee Exhibition for Franz Josef's 50th anniversary.
@@ -37,7 +37,7 @@ will be changed according to demand.
 1. Except in struggle, there is no more beauty.
     * And so we come across the first of many «radical» groups.
     * We look at **Constructivism** for both its significance at the time, and
-      its lastig staypower with its ability to influence genrations of
+      its lasting staypower with its ability to influence generations of
       architects. But what is the reality of the thoughts behind the fancy
       visuals?
 1. Many faces
@@ -47,7 +47,7 @@ will be changed according to demand.
       its transition into architecture was.
 1. Dada means nothing and we declare an uncompromising war on art
     * Two radical art movements, **Dada** and **Futurism**, while not directly
-      related to architecrue have had such lasting influence on culture in
+      related to architecture have had such lasting influence on culture in
       general that it is worth it to cover them.
     * While extreme examples, they provide us with some context to the social
       and artistic scene in Europe at the time, and by extent might help
@@ -57,7 +57,7 @@ will be changed according to demand.
       an prolific architect and a busy writer.
     * To what degree he followed his own words and how many phases of his life
       we can identify is a question that probably can't be answered, but it can
-      be ivnestigated.
+      be investigated.
 1. Less is more
     * **Mies van der Rohe**. In keeping with the dictum above, not more to be
       said.
@@ -68,7 +68,7 @@ will be changed according to demand.
       difference.
 1. The world, smiling
     * This, and the entry below are dedicated to the rather hardcore branch of
-      **Czech Functinalism** that centred around the thinker Karel Teige.
+      **Czech Functionalism** that centred around the thinker Karel Teige.
     * The men who called Le Corbusier too soft helped shape the atmosphere we
       live in in Prague.
 1. The world, scented
@@ -77,7 +77,7 @@ will be changed according to demand.
     * We culminate somewhere in the Mediterranean, en route from Athens to
       Marseilles.
     * In some ways, **CIAM** a summary of some of the things
-      covered in the preceeding ten weeks, in many ways, the thing that the
+      covered in the preceding ten weeks, in many ways, the thing that the
       next 20 years somehow reacted to.
 
 
@@ -85,7 +85,7 @@ will be changed according to demand.
 
 1. "What do you want Brick?"
     * Look on any top 10 architectural personality popularity list, and  **Louis
-      Kahn** is probably somewhere somewhere in there.
+      Kahn** is probably somewhere in there.
     * As with many of the architects who write, lecture and teach prolifically,
       he cared deeply about the profession and had his own brand of it.
       In his case, there are certain words that we will come across that he has
@@ -97,10 +97,10 @@ will be changed according to demand.
     * And so begins the attempted dismantling of CIAM from within.
 1. The walking city
     * One often hears of the stark difference between architecture school and
-      reality.
+      practice.
     * Not so for **Archigram**, who unleashed the playfulness of school
       projects outside of it while employing wit and irony to engage in
-      Critique.
+      critique.
 1. Flood of the Arno River
     * The very real flooding of the Arno River in 1966 was also a great
       symbolic act and awakening call for Florentines. The rampant destruction
@@ -111,7 +111,7 @@ will be changed according to demand.
     * The society. The previous few weeks have put us in top gear top ready to
       handle 1968 France.
     * **The Situationist International**. Propagators of psychogeography,
-      interpretares of space and its opression.
+      interpreters of space and its oppression.
 1. Clusters in the Air
     * Meanwhile, on the other side of the world, a Japan is a country still
       recovering from Word War II and looking for a revival.
@@ -125,15 +125,15 @@ will be changed according to demand.
       **Robert Venturi** and **Denise Scott Brown**.
 1. Five on Five Architects
     * Some were not satisfied to have been broken free of the shackles of the
-      internatinal style and modernity in general. Some still do prefer white
+      international style and modernity in general. Some still do prefer white
       washed walls.
     * The debate between the so called **Grays** and **Whites** is an
       interesting document to look at, because it so symptomatic of the
-      architectural discurse at the time. The names involved are still houshold
-      names (in architectural household) today.
+      architectural discourse at the time. The names involved are still
+      household names (in an architectural household) today.
 1. Into the void inside out
     * Architecture is not an island, and if one needs a perfect example it
-      would be this. The interaciton between **Peter Eisenman** and Jacques
+      would be this. The interaction between **Peter Eisenman** and Jacques
       Derrida led to a huge shift in the possibility of what architecture could
       be.
     * Linguistic analysis leads to deconstruction and critique.
@@ -151,7 +151,7 @@ will be changed according to demand.
       **Rostislav Svacha** that might explain the above.
 1. The present, part 1
     * The current moment is split into two tracks. This session is abut those
-      who fundementally believe the value of things (ie: what is important is
+      who fundamentally believe the value of things (ie: what is important is
       the properties of things in themselves)
     * This is the tendency towards understanding.
     * **Phenomenology**, **Deconstruction**, **Linguistics**, and almost all
@@ -159,7 +159,7 @@ will be changed according to demand.
       they are dealing with.
 1. The present, part 2
     * The current moment is split into two tracks. This session is abut those
-      who fundementally believe in the value of connections (ie: what is
+      who fundamentally believe in the value of connections (ie: what is
       important is the relationships between things).
     * This is the tendency towards complexity.
     * **Parametricism**, **Generative Design** and all branches of architecture

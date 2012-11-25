@@ -23,6 +23,6 @@ reading, which is, I'm sure, a welcome change by some.
 A final tip regarding reading the text. It assumes prior knowledge with the
 overall idea of what Garden Cities are, as Unwin does not bother to explain
 then and instead references the works of Ebenezer Howard, the founder of the
-movement. I would recommend to at least read the first part of the the
+movement. I would recommend to at least read the first part of the
 [wikipedia article](http://en.wikipedia.org/wiki/Garden_city_movement) for
 understanding what they are.

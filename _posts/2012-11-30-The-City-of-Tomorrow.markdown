@@ -6,9 +6,9 @@ title: 1.06 - LC - The City of To-Morrow and Its Planning
 
 ![](/img/12.11.30.City.Tomorrow.jpg)
 
-We took a breather from LC, but he's back this week, a full two years after his
+We took a breather from LC, but he's back for more, a full two years after his
 treatise on architecture in the form of Towards An Architecture, urbanism is
-next on the line with The City of To-Morrow and Its Planning.
+next in the line with The City of To-Morrow and Its Planning.
 
 Urbanism seems to be a popular word within the hall of ARCHIP these days, and
 I expect that some of you are already familiar with the text, all the better.

@@ -1,5 +1,8 @@
 ---
-layout: post author: Martin Zemlicka title: 1.08 - Walter Gropius ---
+layout: post
+author: Martin Zemlicka
+title: 1.08 - Walter Gropius
+---
 
 ![](/img/12.12.23.Bauhaus.jpg)
 

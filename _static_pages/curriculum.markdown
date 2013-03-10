@@ -164,24 +164,3 @@ will be changed according to demand.
     * This is the tendency towards complexity.
     * **Parametricism**, **Generative Design** and all branches of architecture
       that admit defeat over the possibility of knowing the world.
-
-## 2012/13 Specific Curriculum
-
-### 1/2
-
-1. Chicago:
-    * Sullivan - The Tall Office Building Artistically Considered
-    * Wright - The Art and Craft of the Machine
-1. Loos:
-    * Loos - Ornament and Crime
-1. Futurism Constructivism Dada
-    * The First Working Group of the Constructivists - extracts from pamphlets
-    * Tristan Tzara - Dada Manifesto
-    * Antonio Sant'elia - Futurist Architecture
-1. Corbusier 1
-    * Le Corbusier - Towards an Architecture
-
-
-
-
-### 2/2

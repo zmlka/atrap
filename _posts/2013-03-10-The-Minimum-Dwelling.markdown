@@ -10,7 +10,7 @@ Let's start the new cycle with a bit of a bang.
 
 Quite frequently, one hears Le Corbusier or Gropius being referred to as
 «hardcore» functionalism. To convince you that's probably not the case, I'll
-let the quote below make my case:
+use the quote below to make the point:
 
 > The ideal of this most modern "human type" is more likely than not a house or
 > apartment resembling historical replicas of the Petit Trianon, the
@@ -30,7 +30,7 @@ let the quote below make my case:
 Those are some of the introductory words in Karel Teige's _The Minimum
 Dwelling_, an extract of which we will be reading for Thursday.
 
-For those unfamiliar, the [wikipedia
+For those unfamiliar with the thinker, the [wikipedia
 entry](http://en.wikipedia.org/wiki/Karel_Teige) is quite good. Suffice it to
 say that you will have a hard time finding somebody more critical and radical
 during all our readings.

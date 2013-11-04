@@ -1,13 +1,23 @@
----
-layout: default
----
+<html>
+<head>
+    <title> ATRAP.org - Architecture Text Readers Anonymous Phalanstery</title>
+    <link rel="stylesheet" href="/stylesheets/styles.landing.css">
+</head>
+<body>
+<div id="content">
+    <h1><a href="https://www.facebook.com/atrap.org">Architecture Readers Anonymous Phalanstery</a></h1>
 
-<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/atrap.org/posts/559456694122085" data-width="550"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/atrap.org/posts/559456694122085">Post</a> by <a href="https://www.facebook.com/atrap.org">Architecture Text Readers Anonymous Phalanstery</a>.</div></div>
+</div>
+<div id="content">
 
-{% for post in site.posts %}
-<p><h1><a href="{{ post.url}}">{{ post.title }}</a></h1>
-<p>{{post.content | strip_html | truncatewords: 30 }}
-<p><a href="{{ post.url  }}">Read more ...</a></p>
-{% endfor %}
+<p>Things have moved to <a href="https://www.facebook.com/atrap.org">facebook</a> due to popular demand.</p>
+<p>Check the <a href="http://www.atrap.org/index2.html">archive</a> for things before October 2013.</p>
 
+</div>
+
+<footer>
+<p>
+This project is maintained by <a href="http://zmlka.com">Martin Zemlicka</a></br>
+</p>
+</footer>
+</body>

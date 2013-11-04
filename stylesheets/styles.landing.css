@@ -37,8 +37,11 @@ hr {
 
 
 footer {
+  margin-left:auto;
+  margin-right:auto;
   text-align:center;
   font-size: 10px;
   position:fixed;
   bottom:50px;
 }
+

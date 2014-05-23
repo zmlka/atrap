@@ -20,12 +20,6 @@ past learnings. A run-down:
   basically.
 - Not on Thursdays. Currently, it seems that Friday afternoon will be the time
   to meet, but that might change.
-- No longer in ARCHIP premises. After seeing the rather draconian MANUAL -
-  INSTRUCTIONS FOR STUDENTS v0.1 I'm extremely weary of touching anything
-  within the ARCHIP premises or interacting in them in any way, and so we will
-  read and discuss elsewhere. Currently the plan is either a cafe or the second
-  floor rest area above ARCHIP. For the first session this Friday at 16:15,
-  let's meet in the studios and move form there.
 - Currently looking for a better way to distribute the readings, Dropbox seems
   too difficult for some.
 
